@@ -10,6 +10,5 @@
 - 👯 I’m looking to collaborate on open source project, frontend projects
 - 🤔 I’m looking for help with employment
 - 📫 How to reach me: boluwatifeajose@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
 
