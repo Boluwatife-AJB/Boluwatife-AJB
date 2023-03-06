@@ -12,4 +12,4 @@
 - 📫 How to reach me: boluwatifeajose@gmail.com
 - 😄 Pronouns: He/Him
 
-### Here is my portfolio 💼 - https://boluwatife-ajb.github.io/Porfolio/
+### Here is my portfolio 💼 - https://boluwatife-ajb.github.io/Portfolio/
