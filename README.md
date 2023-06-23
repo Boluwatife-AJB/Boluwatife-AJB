@@ -5,10 +5,10 @@
 
  Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an ecommerce website with payment integrated into it.
-- 🌱 I’m currently learning TypeScript, Nextjs, Nodejs.
-- 👯 I’m looking to collaborate on open source project, frontend projects.
-- 🤔 I’m looking for help with internships, mentorship and employement.
+- 🔭 Currently, I am developing a dashboard for internet subscriptions.
+- 🌱 At the moment, I'm learning more about JavaScript, TypeScript, ReactJS and other amazing frontend technologies.
+- 👯 I’m looking to collaborate on open-source projects and frontend projects.
+- 🤔 I’m looking for help with internships, mentorship and employment.
 - 📫 How to reach me: boluwatifeajose@gmail.com
 - 😄 Pronouns: He/Him
 
