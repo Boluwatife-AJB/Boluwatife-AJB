@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 
 
-# I'm Boluwatife
+# I'm Boluwatife (pronounced bow-luh-wah-tea-feh)
 
 A passionate and skilled full-stack web developer with expertise in building modern, responsive, and scalable web applications. My core strengths lie in leveraging cutting-edge technologies to create robust and efficient solutions that meet the unique needs of clients and users.
 
