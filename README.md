@@ -3,10 +3,20 @@
 
 # I'm Boluwatife (pronounced bow-luh-wah-tea-feh)
 
-A passionate and skilled full-stack web developer with expertise in building modern, responsive, and scalable web applications. My core strengths lie in leveraging cutting-edge technologies to create robust and efficient solutions that meet the unique needs of clients and users.
+I'm a passionate and skilled software developer who thrives on building modern, responsive, and scalable web applications. My core strengths? They lie in leveraging cutting-edge technologies to craft robust and efficient solutions that cater to the unique needs of clients and users. Whether designing a sleek front-end interface or engineering a powerful back-end system, I love creating web experiences that are functional and delightful to use. Let's make something amazing together!
 
 # 💫 About Me:
-👷‍♂️ I'm currently working on building a full-stack e-commerce application using Next.js, Node.js, Express, and MongoDB, with a focus on implementing secure payment gateways and optimizing the user experience.<br>🤝 I'm actively seeking opportunities to collaborate on open-source projects in web development, particularly those revolving around the MERN stack or cutting-edge frontend frameworks like Next.js.<br>🙋‍♀️ I'm eager to deepen my understanding of advanced React concepts, such as hooks, context API, and performance optimization techniques, to elevate the efficiency of my projects.<br>🌱 My current learning journey is centered around Database Management Systems, with a particular emphasis on mastering PostgreSQL for robust data handling.<br>💬 Feel free to inquire about my journey with Tailwind CSS and how it has revolutionized my approach to styling in React applications, blending aesthetics with efficiency seamlessly.<br>⚡ Fun fact: I'm a mathematician, and I find that the problem-solving skills I've developed through solving challenging math problems have greatly benefited me in my coding endeavors.
+👷‍♂️ I'm currently working on building full-stack applications using Next.js, Node.js, Express, and MongoDB, with a focus on implementing secure payment gateways and optimizing the user experience.
+
+🤝 I'm actively seeking opportunities to collaborate on open-source projects in web development, particularly those revolving around the MERN stack or cutting-edge frontend frameworks like Next.js.
+
+🙋‍♀️ I'm eager to deepen my understanding of advanced React concepts, such as hooks, context API, and performance optimization techniques, to elevate the efficiency of my projects.
+
+🌱 My current learning journey is centred around Database Management Systems, with a particular emphasis on mastering PostgreSQL for robust data handling, Data Structures and Algorithms, and 3D web animations.
+
+💬 Feel free to inquire about my journey with Tailwind CSS and how it has revolutionized my approach to styling in React applications, blending aesthetics with efficiency seamlessly.
+
+⚡ Fun fact: I'm a mathematician, and the problem-solving skills I've developed through solving challenging math problems have greatly benefited me in my coding endeavours.
 
 
 ## 🌐 Socials:
