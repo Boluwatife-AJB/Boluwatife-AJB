@@ -38,6 +38,16 @@ React + TypeScript LMS that reached a 97% course completion rate. Replaced ad ho
  
 ---
 
+## Devboard — Personal Project
+ 
+> Rust · Axum · Tokio · async-graphql · SeaORM · PostgreSQL · Redis · WebSockets
+ 
+Full developer collaboration platform built entirely in Rust. GraphQL API with subscriptions and WebSocket support for real-time updates, JWT auth, Argon2 password hashing, RBAC, rate limiting, and structured tracing. Layered architecture separating API concerns from business logic and data access.
+ 
+[View on GitHub →](https://github.com/Boluwatife-AJB/devboard)
+ 
+---
+
 ## Tech Stack
  
 **Languages**  
@@ -94,7 +104,7 @@ React + TypeScript LMS that reached a 97% course completion rate. Replaced ad ho
  
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Boluwatife-AJB&custom_title=My%20Github%20Stats&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=Boluwatife-AJB&custom_title=My%20Github%20Stats&include_all_commits=true&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Boluwatife-AJB&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Boluwatife-AJB&langs_count=4&theme=github_dark)
 
 ---
 
