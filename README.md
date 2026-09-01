@@ -1,35 +1,102 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
-
-
-# I'm Boluwatife (pronounced bow-luh-wah-tea-feh)
-
-I'm a passionate and skilled software developer who thrives on building modern, responsive, and scalable web applications. My core strengths? They lie in leveraging cutting-edge technologies to craft robust and efficient solutions that cater to the unique needs of clients and users. Whether designing a sleek front-end interface or engineering a powerful back-end system, I love creating web experiences that are functional and delightful to use. Let's make something amazing together!
-
-# 💫 About Me:
-👷‍♂️ I'm currently working on building full-stack applications using Next.js, Node.js, Express, and MongoDB, with a focus on implementing secure payment gateways and optimizing the user experience.
-
-🤝 I'm actively seeking opportunities to collaborate on open-source projects in web development, particularly those revolving around the MERN stack or cutting-edge frontend frameworks like Next.js.
-
-🙋‍♀️ I'm eager to deepen my understanding of advanced React concepts, such as hooks, context API, and performance optimization techniques, to elevate the efficiency of my projects.
-
-🌱 My current learning journey is centred around Database Management Systems, with a particular emphasis on mastering PostgreSQL for robust data handling, Data Structures and Algorithms, and 3D web animations.
-
-💬 Feel free to inquire about my journey with Tailwind CSS and how it has revolutionized my approach to styling in React applications, blending aesthetics with efficiency seamlessly.
-
-⚡ Fun fact: I'm a mathematician, and the problem-solving skills I've developed through solving challenging math problems have greatly benefited me in my coding endeavours.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/boluwatife.ajose.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boluwatife_abayomi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boluwatife-ajose-021768148) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@boluwatifeajose) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13983410) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/boluwatife_aj) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/boluwatife-ajb) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Boluwatife-AJB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Boluwatife-AJB&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boluwatife-AJB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Boluwatife Ajose
+### Full Stack Engineer · TypeScript · Rust · React · Node.js
+ 
+**Building production systems that handle real scale — from AI-powered platforms to fintech infrastructure.**
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boluwatife-ajose-021768148)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://boluwatife-ajb.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boluwatifeajose@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/boluwatife_aj)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Boluwatife-AJB&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+I'm a full stack engineer with 3+ years building and shipping production applications across fintech, healthcare, edtech, and AI-powered products. I've been the first engineer at a startup, led frontend teams, and written backend systems in both TypeScript and Rust.
+ 
+Most of my work lives at the intersection of real-time systems, payment infrastructure, and user-facing products. I care about the numbers — 99.9% transaction success rates, 40% load time reductions, 97% course completion rates — because that's what "well-built" actually means in production.
+ 
+Currently open to **full stack, frontend, or backend engineering roles** (remote, global).
+
+---
+
+## What I've Shipped
+ 
+**SpiritSync AI Interface** · ForgeCave Technologies  
+Real-time AI assistant using WebSockets and Zustand, handling 500+ daily queries across 100+ communities. Built the streaming UI, session state management, and fallback UX from scratch.
+ 
+**Fastlink Platform** · Founding Engineer  
+Built the entire platform end-to-end — booking system, network management, captive portal authentication (99%+ success rate), and Paystack payment integration with 99.9% transaction accuracy. Reduced dashboard load times by 30%.
+ 
+**Nourri Express PWA** · ForgeCave Technologies  
+Progressive Web App for 2,000+ users with GPS tracking, offline support, Orange Money + MTN Mobile Money integration, and English/French localisation. Cut load times 40% on mid-range devices and low-bandwidth networks.
+ 
+**My Care Mgmt** · ForgeCave Technologies  
+Frontend for 50+ US assisted-care facilities covering geofencing, clock-in/out, role-based access, and audit trails for 200+ caregivers.
+ 
+**LMS Platform** · ForgeCave Technologies  
+React + TypeScript LMS that reached a 97% course completion rate. Replaced ad hoc data fetching with TanStack Query, cutting unnecessary API calls by 60%.
+ 
+---
+
+## Tech Stack
+ 
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ 
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+ 
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+ 
+**Databases & ORMs**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+ 
+**Data & Analysis**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+ 
+**DevOps & Tooling**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+ 
+**Testing**  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+ 
+---
+ 
+## GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Boluwatife-AJB&custom_title=My%20Github%20Stats&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=Boluwatife-AJB&custom_title=My%20Github%20Stats&include_all_commits=true&theme=aura)
+
+---
+
+**Available for remote work globally · Based in Lagos, Nigeria**  
+[boluwatifeajose@gmail.com](mailto:boluwatifeajose@gmail.com)
